@@ -1,2 +1,3 @@
-//here is a text line
-void main(char argc, char **argv) {}
+// here is a text line
+
+int main(char argc, char **argv) {}
